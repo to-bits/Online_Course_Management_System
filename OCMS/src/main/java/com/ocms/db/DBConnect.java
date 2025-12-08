@@ -6,7 +6,7 @@ import java.sql.DriverManager;
 public class DBConnect {
 	private static String url = "jdbc:mysql://localhost:3306/OCMS";
     private static String username = "root";
-    private static String password = "*tO422954";
+    private static String password = "Your_Password";
 
     public static Connection getConnection() {
         Connection con = null;
