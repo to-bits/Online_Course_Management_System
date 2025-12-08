@@ -1,12 +1,14 @@
 📚 Online Course Management System (OCMS)
-
 A full-featured JSP + Servlet + MySQL based web application that allows Admins, Students, and Teachers to manage online course operations.
 This system includes course creation, teacher assignment, student enrollment, authentication, and more.
 
 🚀 Features
 👨‍💼 Admin Features
+
 Admin Login
+
 Create Courses
+
 Assign Teachers to Courses
 View All Students & Teachers
 Delete Courses
